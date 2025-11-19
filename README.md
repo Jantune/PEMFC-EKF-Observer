@@ -135,11 +135,11 @@ Compare_ML_Models()
 ## Citation
 If you use this code in your research, please cite:
 ```
-Updating
+[Citation will be updated upon publication]
 ```
 
 ## License
-[Updating]
+MIT License (or as specified by the authors)
 
 ## Contact
-For questions or issues, please open an issue on GitHub.
+For questions or issues, please open an issue on [GitHub](https://github.com/Jantune/PEMFC-EKF-Observer).

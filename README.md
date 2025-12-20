@@ -135,7 +135,7 @@ Compare_ML_Models()
 ## Citation
 If you use this code in your research, please cite:
 ```
-[Updating]
+Fang, Z., et al., Cell-by-cell temperature observer for commercial PEMFC stacks: a thermal-hydraulic approach. Energy Conversion and Management, 2026. 350: p. 120965.
 ```
 
 ## License
